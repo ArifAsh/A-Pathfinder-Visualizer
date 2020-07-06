@@ -1,0 +1,13 @@
+# Screen
+WIDTH = 600
+HEIGHT = 800
+
+cellSize = 20
+
+#COLORS
+BLACK = (0,0,0)
+WHITE = (255,255,255)
+BLUE = (0,0,240)
+RED = (255,0,0)
+GREEN=(50,205,50)
+YELLOW = (255,255,102)
